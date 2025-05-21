@@ -24,7 +24,7 @@ const usuario1 = {
 const usuario2 = {
   name: "teste",
   email: "teste@teste",
-  password: "1234",
+  password: "1234876",  // correção de senha
   _id: "NaIS1aGgXmYijHVZ"
 };
 
